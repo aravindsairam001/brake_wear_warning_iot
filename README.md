@@ -8,27 +8,6 @@
 
 ---
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Problem Statement](#problem-statement)
-- [Objectives](#objectives)
-- [Existing vs Proposed System](#existing-vs-proposed-system)
-- [Methodology](#methodology)
-  - [System Architecture](#system-architecture)
-  - [Flowchart and Algorithm](#flowchart-and-algorithm)
-- [Hardware and Software](#hardware-and-software)
-- [Working Principle](#working-principle)
-- [ThingSpeak Data Monitoring](#thingspeak-data-monitoring)
-- [Advantages](#advantages)
-- [Disadvantages](#disadvantages)
-- [Results & Conclusion](#results--conclusion)
-- [Future Scope](#future-scope)
-- [Appendix](#appendix)
-- [References](#references)
-- [Programme Vision & Outcomes](#programme-vision--outcomes)
-
----
-
 ## Project Overview
 This project introduces an IoT-based real-time brake pad wear monitoring system for reaction beam caliper brakes. The system detects brake pad wear and alerts the responsible person via SMS and a cloud dashboard, thereby preventing accidents due to worn-out pads.
 
