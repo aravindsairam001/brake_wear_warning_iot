@@ -1,6 +1,6 @@
 Reaction Beam Caliper Brake Pad Wear Warning System Using IoT
 
-Authors: Aravind Sairam S (211616115007)
+Authors: Aravind Sairam S (211616115007), Shadhan R (211616115038)
 Institution: Rajalakshmi Engineering College, Anna University, Chennai
 Department: Mechatronics Engineering
 Date: September 2020
